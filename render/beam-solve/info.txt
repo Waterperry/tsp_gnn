@@ -1,0 +1,1 @@
+This is where renders of the beam search algorithm's process will be saved to.
